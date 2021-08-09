@@ -5,4 +5,6 @@ function func(){
 };
 
 var a=func();
+var b=10;
+console.log(b);
 console.log(a);
