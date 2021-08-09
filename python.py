@@ -3,4 +3,5 @@ for i in range(1,3):
     if i==2:
         print("2 found")
         print("1 and 2 are going to print")
+        print(" new line")
         break
